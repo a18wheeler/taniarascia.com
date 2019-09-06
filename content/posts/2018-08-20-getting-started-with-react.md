@@ -236,7 +236,7 @@ Let's create our `App` component again. Before, we just had an `<h1>`, but now I
 <div class="filename">src/index.js</div>
 
 ```jsx
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div className="App">
