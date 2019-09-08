@@ -81,6 +81,8 @@ $data = '{
 
 $character = json_decode($data);
 echo $character->name;
+
+?>
 ```
 
 Here is the output.
